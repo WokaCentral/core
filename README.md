@@ -1,4 +1,4 @@
 # core
-Zentrale Bausteiner für unsere Central Station.
+Zentrale Bausteine für unsere Central Station.
 
-Angfangen auf der #divocbb3.
+Angefangen auf der #divocbb3.
