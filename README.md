@@ -1,5 +1,5 @@
 # core
-Zentrale Bausteine für unsere "Inter-Galactic Chaos Central Station", kurz ChaosCentral(?!?) oder c3central, c3c. Schaunwamal.
+Zentrale Bausteine für unsere "Inter-Galactic Chaos Central Station", kurz ChaosCentral(?!?) oder c3central, c3c. Schaunwamal. ^^
 
 Angefangen auf der #divocbb3.
 
